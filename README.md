@@ -1,2 +1,2 @@
 # pyarrowtry
-playground of pyarrow
+playground of parquet files with pyarrow
